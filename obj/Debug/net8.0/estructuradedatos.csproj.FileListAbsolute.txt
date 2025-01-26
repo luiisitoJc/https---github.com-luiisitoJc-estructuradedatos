@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\bin\Debug\net8.0\estructuradedatos.exe
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\bin\Debug\net8.0\estructuradedatos.deps.json
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\bin\Debug\net8.0\estructuradedatos.runtimeconfig.json
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\bin\Debug\net8.0\estructuradedatos.dll
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\bin\Debug\net8.0\estructuradedatos.pdb
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.dll
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\refint\estructuradedatos.dll
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.pdb
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\estructuradedatos.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Documentos\Estructura de datos\estructuradedatos\obj\Debug\net8.0\ref\estructuradedatos.dll
