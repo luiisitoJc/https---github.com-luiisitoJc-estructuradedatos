@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0xPqN2U/6Rk=",
+  "dgSpecHash": "aySP3NzPblE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\OneDrive\\Documentos\\Estructura de datos\\estructuradedatos\\estructuradedatos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\estructuradedatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
