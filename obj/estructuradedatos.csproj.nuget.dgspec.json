@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\estructuradedatos.csproj": {}
+    "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos-3\\estructuradedatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\estructuradedatos.csproj": {
+    "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos-3\\estructuradedatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\estructuradedatos.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos-3\\estructuradedatos.csproj",
         "projectName": "estructuradedatos",
-        "projectPath": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\estructuradedatos.csproj",
+        "projectPath": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos-3\\estructuradedatos.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Ejemplos_Tecnicas_Programacion\\https---github.com-luiisitoJc-estructuradedatos-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
