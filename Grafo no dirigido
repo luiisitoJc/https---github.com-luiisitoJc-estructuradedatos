@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+
+class GrafoNoDirigido
+{
+    private Dictionary<string, List<string>> adyacencias;
+
+    public GrafoNoDirigido()
+    {
+        adyacencias = new Dictionary<string, List<string>>();
+    }
+
+    public void AgregarVertice(string vertice)
+    {
+        if (!adyacencias.ContainsKey(vertice))
+        {
+            adyacencias[vertice] = new List<string>();
+        }
+    }
+
+    public void AgregarArista(string origen, string destino)
+    {
+        AgregarVertice(origen);
+        AgregarVertice(destino);
+        adyacencias[origen].Add(destino);
+        adyacencias[destino].Add(origen);
+    }
+
+    public void MostrarGrafo()
+    {
+        foreach (var vertice in adyacencias)
+        {
+            Console.Write(vertice.Key + " -> ");
+            Console.WriteLine(string.Join(", ", vertice.Value));
+        }
+    }
+
+    static void Main()
+    {
+        GrafoNoDirigido grafo = new GrafoNoDirigido();
+        grafo.AgregarArista("Quito", "Guayaquil");
+        grafo.AgregarArista("Quito", "Cuenca");
+        grafo.AgregarArista("Guayaquil", "Manta");
+        grafo.AgregarArista("Cuenca", "Loja");
+
+        Console.WriteLine("Grafo no dirigido:");
+        grafo.MostrarGrafo();
+    }
+}
