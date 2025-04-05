@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+
+class GrafoDirigido
+{
+    private Dictionary<string, List<string>> adyacencias;
+
+    public GrafoDirigido()
+    {
+        adyacencias = new Dictionary<string, List<string>>();
+    }
+
+    public void AgregarVertice(string vertice)
+    {
+        if (!adyacencias.ContainsKey(vertice))
+        {
+            adyacencias[vertice] = new List<string>();
+        }
+    }
+
+    public void AgregarArista(string origen, string destino)
+    {
+        AgregarVertice(origen);
+        AgregarVertice(destino);
+        adyacencias[origen].Add(destino);
+    }
+
+    public void MostrarGrafo()
+    {
+        foreach (var vertice in adyacencias)
+        {
+            Console.Write(vertice.Key + " -> ");
+            Console.WriteLine(string.Join(", ", vertice.Value));
+        }
+    }
+
+    static void Main()
+    {
+        GrafoDirigido grafo = new GrafoDirigido();
+        grafo.AgregarArista("Inicio", "Tarea1");
+        grafo.AgregarArista("Tarea1", "Tarea2");
+        grafo.AgregarArista("Tarea2", "Fin");
+
+        Console.WriteLine("Grafo dirigido:");
+        grafo.MostrarGrafo();
+    }
+}
